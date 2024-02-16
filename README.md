@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Casper! <br/><a href="https://www.linkedin.com/in/casper-leenders-55574865/">Business Analyst</a> 
 
-<!--
-**Cappe52/Cappe52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Python Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Monty Hall paradox</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me on <br/><a href="https://www.linkedin.com/in/casper-leenders-55574865/">Linked-In</a> 
+</h2>
+
+
+
+
